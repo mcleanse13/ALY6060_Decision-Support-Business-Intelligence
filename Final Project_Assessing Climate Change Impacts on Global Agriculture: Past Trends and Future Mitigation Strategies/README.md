@@ -1,4 +1,4 @@
-Analyzing Climate Change Impacts and Adaptation Strategies in Global Agriculture
+Final Project: Analyzing Climate Change Impacts and Adaptation Strategies in Global Agriculture
 
 For my final project in ALY 6060, I focused on analyzing the impact of climate change on the agricultural industry and the strategies countries have used to mitigate these effects over the past 25 years. I selected a dataset that included global agricultural metrics such as crop yields, irrigation levels, soil health indices, fertilizer and pesticide use, and adaptation strategies like crop rotation, drought-resistant crops, organic farming, and water management. Using descriptive analytics and multiple visualizations, I explored trends in extreme weather events, temperature fluctuations, and precipitation levels to understand how these environmental factors have influenced agricultural production worldwide. This allowed me to identify patterns and correlations that can inform future planning and policy decisions in agriculture.
 
